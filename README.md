@@ -6,12 +6,12 @@
 O-----O  My name is Will and I like to learn new stuff.
 o-----O   I also like to cook, build things, and play.
  o---O
-  o-O     I am a bioinformatician (i.e. data wrangler)
-   O           in the Single Cell Genomics Group
+  o-O     I am a chip whisperer (sysadmin)
+   O           in the Scientific IT team
   O-o    @ National Centre for Genomic Analysis (CNAG)             
- O---o                       &&
-O-----o        Centre for Genomic Regulation (CRG)
-o-----O               in Barcelona, Spain
+ O---o            in Barcelona, Spain   
+O-----o        
+o-----O             
  o---O
   o-O
 </pre>
